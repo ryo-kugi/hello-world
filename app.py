@@ -21,4 +21,4 @@ Brightness: {c}
 )
     sys.stdout.write(output)
     sys.stdout.flush()
-    time.sleep(1)
+    time.sleep(1800)
